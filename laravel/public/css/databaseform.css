@@ -1,0 +1,57 @@
+form{
+	margin:10px;
+	margin-bottom:0px;
+}
+.dbform{
+	width:1500px;
+	display:inline-block;
+	font-size:20px;	
+	margin:10px;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+.dbform div{
+	width:200px;
+	color:#000;
+	text-align:center;
+	display:inblock;
+	float:left;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+.dbform .title{
+	background:#626262;
+	width:200px;
+	height:30px;
+	color:#fafafa;
+}
+.dbform .content1{
+	height:30px;
+	background:#fff;
+}
+.dbform .content2{
+	height:30px;
+	background:#bbfff0;
+}
+.dbform .border_ver
+{
+	background:#000;
+	width:203px;
+	height:2px;
+}
+.dbform .border_hor
+{
+	background:#000;
+	width:3px;
+	height:30px;
+}
+.dbform .border_hor_head
+{
+	background:#000;
+	width:3px;
+	height:30px;
+	clear:both;
+}
+.dbform  .clear{clear:both;}

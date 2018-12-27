@@ -1,0 +1,2 @@
+修改.format-image .hex .fa:before的内容
+编号可以在http://www.bootcss.com/p/font-awesome/design.html中查找
